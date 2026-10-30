@@ -1,0 +1,4 @@
+node_modules/
+.env
+usuarios.txt
+claves.txt
